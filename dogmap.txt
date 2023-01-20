@@ -1,0 +1,10 @@
+azor
+C:\Users\marta\Desktop\STUDIA\INFE\SEM4\CP\Project\Virtual_Pet\Virtual_Pet\azor
+abcd
+C:\Users\marta\Desktop\STUDIA\INFE\SEM4\CP\Project\Virtual_Pet\Virtual_Pet\abcd
+Ernest
+C:\Users\marta\Desktop\STUDIA\INFE\SEM4\CP\Project\Virtual_Pet\Virtual_Pet\Ernest
+asdf
+C:\Users\marta\Desktop\STUDIA\INFE\SEM4\CP\Project\Virtual_Pet\Virtual_Pet\asdf
+errtet
+C:\Users\marta\Desktop\STUDIA\INFE\SEM4\CP\Project\Virtual_Pet\x64\Release\errtet
